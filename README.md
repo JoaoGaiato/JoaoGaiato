@@ -6,11 +6,10 @@
  <div id="badges">
   <a href = "https://www.linkedin.com/in/joaovitorgaiato/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <a href = "https://www.instagram.com/eujoaogaiato?igsh=MWRndjUxM2p6bW5hbQ==">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Intagram Badge"/>
  </div>
- 
+  
 - Estudante de Ciência da Computação, atualmente no 1º semestre, em busca de uma oportunidade de estágio para aplicar meus conhecimentos, desenvolver novas habilidades e agregar valor a organização.
 
 - No primeiro semestre, enfrentamos o desafio de criar o EnglishAdventure, um jogo para auxiliar professores no ensino de inglês.
