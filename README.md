@@ -27,6 +27,6 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
 
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaiato&show_icons=true&theme=bear&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoGaiato&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGaiato&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JoaoGaiato&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </div>
