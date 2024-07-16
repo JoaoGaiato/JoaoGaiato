@@ -1,4 +1,3 @@
-<img src = "banner.webp" width = "325px" align = "right">
 
 ### 🫱🏼‍🫲🏻 Olá, bom ter você por aqui!
 ##
@@ -11,12 +10,13 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
 
 - 💙 Gosto de animais, filmes e de estar com a familia
 
-- 🧑🏻‍💻 Aprendendo algo sobre back-end
+- 🧑🏻‍💻 Aprendendo algo sobre back-end e front-end
 
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
+      <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="110" height="70"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="90" height="65/>&nbsp;
+  
+  </div>
 
 
 ---
