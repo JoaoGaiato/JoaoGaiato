@@ -16,3 +16,6 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
   <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
   </div>
   
+```python
+  print('Hello word')
+```
