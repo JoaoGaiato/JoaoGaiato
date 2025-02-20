@@ -15,7 +15,9 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
   <div>
   <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
   </div>
-  
+   <div>
+  <img src="https://i.pinimg.com/originals/9c/41/45/9c41454a0a1fb68a93de2d80928652f6.png" title="django" alt="django" width="190" height="190"/>&nbsp;    
+  </div> 
 ```python
   print('Eu faço programa')
 ```
