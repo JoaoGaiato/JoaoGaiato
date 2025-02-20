@@ -16,7 +16,7 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
   <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
   </div>
   <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPato&psig=AOvVaw0Yo8o_iieFewZhvEa2VhX1&ust=1740098681237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjPvPCC0YsDFQAAAAAdAAAAABAE" alt="pato" width="120" height="75"/>&nbsp;    
+  <img src="https://live.staticflickr.com/8533/8672620550_00fbcd13b4_b.jpg" alt="pato" width="140" height="100"/>&nbsp;    
   </div>
 ```python
   print('Hello Word')
