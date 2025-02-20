@@ -10,14 +10,20 @@ Acesse-o aqui e divirta-se!!! [EnglishAdventure](https://github.com/UNIVEM-BCC-B
 
 - 💙 Gosto de animais, filmes e de estar com a familia
 
-- 🧑🏻‍💻 Sempre aprendendo algo sobre back-end e continuo sendo ruim
+- 🧑🏻‍💻 Sempre aprendendo algo sobre back-end
 
   <div>
   <img src="https://img-c.udemycdn.com/course/750x422/4884438_ce79_2.jpg" title="django" alt="django" width="120" height="75"/>&nbsp;    
   </div>
+
    <div>
   <img src="https://i.pinimg.com/originals/9c/41/45/9c41454a0a1fb68a93de2d80928652f6.png" title="django" alt="django" width="190" height="190"/>&nbsp;    
   </div> 
+  
+  <div>
+  <img src="https://live.staticflickr.com/8533/8672620550_00fbcd13b4_b.jpg" alt="pato" width="140" height="100"/>&nbsp;    
+  </div>
+
 ```python
-  print('Eu faço programa')
+  print('Hello Word')
 ```
